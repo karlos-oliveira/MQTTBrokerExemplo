@@ -1,0 +1,11 @@
+D:\Desenvolvimento\Visual Studio\brokerMQ\brokerMQ\bin\Debug\netcoreapp2.1\brokerMQ.deps.json
+D:\Desenvolvimento\Visual Studio\brokerMQ\brokerMQ\bin\Debug\netcoreapp2.1\brokerMQ.runtimeconfig.json
+D:\Desenvolvimento\Visual Studio\brokerMQ\brokerMQ\bin\Debug\netcoreapp2.1\brokerMQ.runtimeconfig.dev.json
+D:\Desenvolvimento\Visual Studio\brokerMQ\brokerMQ\bin\Debug\netcoreapp2.1\brokerMQ.dll
+D:\Desenvolvimento\Visual Studio\brokerMQ\brokerMQ\obj\Debug\netcoreapp2.1\brokerMQ.csproj.CoreCompileInputs.cache
+D:\Desenvolvimento\Visual Studio\brokerMQ\brokerMQ\obj\Debug\netcoreapp2.1\brokerMQ.AssemblyInfoInputs.cache
+D:\Desenvolvimento\Visual Studio\brokerMQ\brokerMQ\obj\Debug\netcoreapp2.1\brokerMQ.AssemblyInfo.cs
+D:\Desenvolvimento\Visual Studio\brokerMQ\brokerMQ\bin\Debug\netcoreapp2.1\brokerMQ.pdb
+D:\Desenvolvimento\Visual Studio\brokerMQ\brokerMQ\obj\Debug\netcoreapp2.1\brokerMQ.dll
+D:\Desenvolvimento\Visual Studio\brokerMQ\brokerMQ\obj\Debug\netcoreapp2.1\brokerMQ.pdb
+D:\Desenvolvimento\Visual Studio\brokerMQ\brokerMQ\obj\Debug\netcoreapp2.1\brokerMQ.csprojAssemblyReference.cache

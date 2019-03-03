@@ -1,0 +1,11 @@
+D:\Desenvolvimento\Visual Studio\brokerMQ\brokerMQ\bin\Release\netcoreapp2.0\brokerMQ.deps.json
+D:\Desenvolvimento\Visual Studio\brokerMQ\brokerMQ\bin\Release\netcoreapp2.0\brokerMQ.runtimeconfig.json
+D:\Desenvolvimento\Visual Studio\brokerMQ\brokerMQ\bin\Release\netcoreapp2.0\brokerMQ.runtimeconfig.dev.json
+D:\Desenvolvimento\Visual Studio\brokerMQ\brokerMQ\bin\Release\netcoreapp2.0\brokerMQ.dll
+D:\Desenvolvimento\Visual Studio\brokerMQ\brokerMQ\bin\Release\netcoreapp2.0\brokerMQ.pdb
+D:\Desenvolvimento\Visual Studio\brokerMQ\brokerMQ\obj\Release\netcoreapp2.0\brokerMQ.csprojAssemblyReference.cache
+D:\Desenvolvimento\Visual Studio\brokerMQ\brokerMQ\obj\Release\netcoreapp2.0\brokerMQ.csproj.CoreCompileInputs.cache
+D:\Desenvolvimento\Visual Studio\brokerMQ\brokerMQ\obj\Release\netcoreapp2.0\brokerMQ.AssemblyInfoInputs.cache
+D:\Desenvolvimento\Visual Studio\brokerMQ\brokerMQ\obj\Release\netcoreapp2.0\brokerMQ.AssemblyInfo.cs
+D:\Desenvolvimento\Visual Studio\brokerMQ\brokerMQ\obj\Release\netcoreapp2.0\brokerMQ.dll
+D:\Desenvolvimento\Visual Studio\brokerMQ\brokerMQ\obj\Release\netcoreapp2.0\brokerMQ.pdb
